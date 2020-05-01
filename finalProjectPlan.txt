@@ -1,10 +1,10 @@
 "SoundCloud" I will be creating a website using HTML and CSS that demonstrate the ethical issues of the music streaming platform, Soundcloud. I will look at the following issues:
 
-1) Artist benefiting from copyright material (remixes).
+1) Artist benefiting from copyright material (remixes, intellectual property, social issues).
 
-2) Soundcloud artists making little to no money from their work.
+2) Soundcloud artists making little to no money from their work. (Human Factor)
 
-3) The impact of music on cultures as a whole
+3) The impact of SoundCloud on cultures as a whole. (Social issues)
 
 
 4/5 First draft of project plan
